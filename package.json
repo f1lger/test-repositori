@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build --base=/test-repositori/",
-    "preview": "vite preview"
+    "preview": "vite preview" 
   },
   "devDependencies": {
     "vite": "^4.0.5",
